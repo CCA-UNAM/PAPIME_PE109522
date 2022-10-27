@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Herramientas GNU/LINUX
+    chapters:
+    - file: Curso_basico_UNIX/01_COMANDOS_BASICOS_LINUX/comandos_linux_repaso
+    - file: Curso_basico_UNIX/02_COMANDOS_AVANZADOS/comandos_avanzados
+    - file: Curso_basico_UNIX/03_VIM_Y_BASH/01_VIM
+    - file: Curso_basico_UNIX/03_VIM_Y_BASH/02_BASHySCRIPTS 
+    - file: Curso_basico_UNIX/03_VIM_Y_BASH/Herramientas_BASHySCRIPTS
+
+  - caption: Análisis de datos geofísicos 
+    chapters:
+    - file: Taller_ugm_2022/caso1_python
+    - file: Taller_ugm_2022/caso2_r
+    - file: Taller_ugm_2022/caso3_matlab
+
